@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "624841388238",
+    "firebase_url": "https://desdksa-ab5c7-default-rtdb.firebaseio.com",
+    "project_id": "desdksa-ab5c7",
+    "storage_bucket": "desdksa-ab5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624841388238:android:3b608ed9dfa3afc9e1209f",
+        "android_client_info": {
+          "package_name": "com.catalinadev.desdksa.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624841388238-ibb1ec02p3137b79u69vr5rq607qsfcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catalinadev.desdksa.com",
+            "certificate_hash": "d0318d178e357db61004370d951f3c522abfedd8"
+          }
+        },
+        {
+          "client_id": "624841388238-vtm66lscrf0epk3u9h5j4b6ujdlgaq9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT61BsJKWtA0U2WJGo7pnTKV1RTILMHhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624841388238-vtm66lscrf0epk3u9h5j4b6ujdlgaq9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624841388238-lu7eqk6sqct9sao36gda8pha65t9sv0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.catalinadev.desdksa.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
